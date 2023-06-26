@@ -1,0 +1,95 @@
+.warna1{
+    background-color: grey;
+
+
+}
+
+.warna2{
+    background-color: grey;
+}
+.warna3{
+    background-color: rgb(48, 42, 42);
+}
+
+.banner{
+    height: 80vh ;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../image/bannerRumah.jpg);
+    background-position: center;
+    background-size:cover;
+}
+.habib{
+    height: 80vh ;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../image/habib.jpg);
+    background-position: center;
+    background-size:cover;
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-baju-pria{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../image/Bajupria.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-baju-wanita{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../image/Bajuwanita.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.rumah{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../image/rumah1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+/*.no-decoration:hover{
+    color: goldenrod;
+}*/
+
+.text-harga{
+    font-size: 20px;
+}
+
+.image-box{
+    height: 250px;
+
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe{
+    background-color: grey;
+}
+
+a:hover{
+    color: rgb(75, 68, 52);
+}
+.btn-outline-warning{
+    border-color: black;
+}
+.btn-outline-warning:hover{
+    background-color: rgb(54, 51, 51);
+}
+.produk-terkait-image{
+    height: 300px;
+    width: 250px;
+    object-fit: cover;
+    object-position: center;
+}
+.linierGradien{
+    background-image: linier-gradient(rgba(128, 121, 121, 0.884),rgb(88, 85, 85));  
+}
